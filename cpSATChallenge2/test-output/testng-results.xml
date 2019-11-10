@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4931" started-at="2019-11-10T17:06:52 IST" finished-at="2019-11-10T17:06:57 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4931" started-at="2019-11-10T17:06:52 IST" finished-at="2019-11-10T17:06:57 IST">
+      <class name="com.challenge2.Question2">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.challenge2.Question2@124411f]" name="beforeTest" is-config="true" duration-ms="1964" started-at="2019-11-10T17:06:52 IST" finished-at="2019-11-10T17:06:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testMarketWatch()[pri:0, instance:com.challenge2.Question2@124411f]" name="testMarketWatch" duration-ms="1407" started-at="2019-11-10T17:06:54 IST" finished-at="2019-11-10T17:06:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMarketWatch -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.challenge2.Question2@124411f]" name="afterTest" is-config="true" duration-ms="1537" started-at="2019-11-10T17:06:55 IST" finished-at="2019-11-10T17:06:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.challenge2.Question2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
